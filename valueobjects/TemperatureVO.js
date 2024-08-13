@@ -8,4 +8,3 @@ exports.TemperatureVO = function (value,unit){
     this.value=value;
     this.unit=unit;
 };
-
